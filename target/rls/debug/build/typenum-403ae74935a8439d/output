@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/takanorifukuyama/git/github.com/takanorifukuyama/abs/target/rls/debug/build/typenum-403ae74935a8439d/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/takanorifukuyama/git/github.com/takanorifukuyama/abs/target/rls/debug/build/typenum-403ae74935a8439d/out/op.rs
